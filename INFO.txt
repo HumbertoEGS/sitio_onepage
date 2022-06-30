@@ -1,0 +1,7 @@
+Nombre: Humberto Ezequiel
+Apellido: Garcia Sueldo
+Carrera: Tecnicatura en desarrollo de software
+Comision: 11181
+Navegador: Chrome
+Horas dedicadas: 14 horas aproximadamente
+URL de la pagina: https://newrute.000webhostapp.com/
